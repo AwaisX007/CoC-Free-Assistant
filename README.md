@@ -45,6 +45,30 @@
 
 **NP Manager (NP管理器)** helps with Android file management, game directories, and moving account files. Check the release notes for any steps that require it; it is a separate tool from the assistant.
 
+## ☁️ Activate Magisk & LSPosed on VMOS Cloud
+
+Using a VMOS Cloud phone? Enable both tools from its built-in Toolbox:
+
+1. **Open Toolbox** on your cloud phone's home screen — look for the blue wrench icon.
+2. **Scroll down** past the Basic Tools section until you see **Magisk (Mask)** and **Lsposed**.
+3. **Activate both switches.** Turn on **Magisk (Mask)** and **Lsposed**; both switches should be blue.
+4. **Reboot the cloud phone.** Use the VMOS Cloud **Restart** control (shown as **Neustart** in the German interface).
+5. **Done!** Wait for the cloud phone to finish restarting before continuing.
+
+> 💡 The switches are in **Toolbox**. After enabling both, reboot the **cloud phone** to apply the changes.
+
+### 🌍 Translator & language files
+
+The companion translator package and language files are:
+
+| File | Purpose |
+| :--- | :--- |
+| `CNBotTranslator (1).apk` | Android translator companion app. |
+| `EN_English.tsv` | English translation file. |
+| `DE_German.tsv` | German translation file. |
+
+These are separate from the green assistant APK. Check the [latest release](https://github.com/AwaisX007/CoC-Free-Assistant/releases/latest) for currently available downloads.
+
 ## ⚙️ Permissions
 
 | Permission | Purpose |
